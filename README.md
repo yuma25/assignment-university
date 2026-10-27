@@ -58,7 +58,7 @@ Java 開発環境および JavaFX を利用した，複数のデスクトップ�
 
 #### 動作デモ動画
 
-<h3 align="center"> デモ動画 (Demo Video)</h3>
+<h3 align="center"> デモ動画</h3>
 
 <p align="center">
   <a href="https://youtu.be/gXPIKF_XWUw" target="_blank" rel="noopener noreferrer">
