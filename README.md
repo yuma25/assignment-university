@@ -1,6 +1,6 @@
-# Assignment Project
+# Assignment-University
 
-本リポジトリは，大学の講義（実習ICTおよびプログラミング演習III）における課題成果物を集約したものである．Pythonを用いたWebアプリケーション開発から，Java/JavaFXを用いたGUI・CLIアプリケーション開発まで，多岐にわたる実装が含まれる．
+本リポジトリは，大学の講義における課題成果物を集約したものである．Pythonを用いたWebアプリケーション開発から，Java/JavaFXを用いたGUI・CLIアプリケーション開発まで，多岐にわたる実装が含まれる．
 
 ## プロジェクト構成
 
@@ -58,7 +58,7 @@ Java 開発環境および JavaFX を利用した，複数のデスクトップ�
 
 #### 動作デモ動画
 
-<h3 align="center">🎬 デモ動画 (Demo Video)</h3>
+<h3 align="center"> デモ動画 (Demo Video)</h3>
 
 <p align="center">
   <a href="https://youtu.be/gXPIKF_XWUw" target="_blank" rel="noopener noreferrer">
